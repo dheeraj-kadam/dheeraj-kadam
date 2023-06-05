@@ -2,7 +2,7 @@
 Introduction to my GitHub profile.
 
 # Profile
-Developer
+Senior Developer
 
 # Technology
 Java
